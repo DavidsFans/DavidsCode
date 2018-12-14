@@ -20,7 +20,7 @@ public class LearningToProgram {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Console c = new Console();
+        Console vononwno = new Console();
    
         
 
